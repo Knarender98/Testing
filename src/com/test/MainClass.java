@@ -6,7 +6,7 @@ import java.util.List;
 public class MainClass {
 	
 	public static void main(String[] args) {
-		
+		System.out.println("for testing ");
 
         Emp emp = new Emp();
 		// Create subjects
